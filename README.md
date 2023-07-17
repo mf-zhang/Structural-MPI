@@ -1,6 +1,6 @@
 # Structural MPI
 
-(CVPR2023) Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction  [Paper](https://arxiv.org/abs/2303.05937) 
+(CVPR2023) Structural Multiplane Image: Bridging Neural View Synthesis and 3D Reconstruction  [Paper](https://arxiv.org/abs/2303.05937) [Video](https://www.youtube.com/watch?v=8Bbl8oZKAOs) 
 
 We propose the Structural MPI (S-MPI) framework, where we assign an MPI layer to each 3D surface in the scene. Each MPI layer in our S-MPI is adaptively posed based on planar 3D reconstruction of the scene. In contrast, standard MPI is composed of a set of layers that are all parallel to the imaging plane.
 
